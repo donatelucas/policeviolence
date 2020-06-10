@@ -4,4 +4,4 @@ date: 2020-06-10 14:36:42
 tags:
 ---
 
-{% dplayer "url=https://162.241.253.159/kitty.mp4" %}
+{% dplayer "url=https://policeviolence.co/kitty.mp4" %}
