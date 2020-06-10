@@ -1,7 +1,7 @@
 ---
 title: test
-date: 2020-06-10 14:36:42
+date: 2020-06-10 6:00:00
 tags:
 ---
 
-{% dplayer "url=https://policeviolence.co/kitty.mp4" %}
+{% vimeo 427912581 %}
