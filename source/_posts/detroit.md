@@ -1,5 +1,5 @@
 ---
-title: detroit
+title: "#19 detroit"
 date: 2020-06-10 20:20:35
 tags: michigan
 ---

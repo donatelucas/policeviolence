@@ -1,5 +1,5 @@
 ---
-title: minneapolis
+title: "#8 minneapolis"
 date: 2020-06-10 19:38:34
 tags: minnesota
 ---
