@@ -4,4 +4,4 @@ date: {{ date }}
 tag:
 ---
 
-![](path/to/img.jpg)
+{% fancybox path/to/image [title] %}
